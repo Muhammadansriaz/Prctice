@@ -1,2 +1,1 @@
-# Prctice 
- 
+Simple JavaScript Practice
