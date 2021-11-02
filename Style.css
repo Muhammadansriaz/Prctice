@@ -2,4 +2,5 @@ h1{
     color: blue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-shadow: 2px 2px 2px lightcoral;
+    text-indent: 30px;
 }
