@@ -1,11 +1,14 @@
-function repeatStringNumTimes(str, num) {
-    if(num<1){
-      console.log(""); 
-    }
-    else{
-  
-    console.log( str +repeatStringNumTimes(str, num-1));
-    }
-  }
-  
-  repeatStringNumTimes("abc", 7);
+// function Random_Nmbr(){
+//  var nmb =  Math.random()*(100-0+1)+0
+//  var int = Math.floor(nmb)
+//  console.log(int);
+// }
+// Random_Nmbr()
+
+
+// function Sqaure_root(){
+//   var nmb = +prompt("Enter the nmbr")
+//   var square_root = Math.sqrt(nmb)
+//   console.log(square_root);
+// }
+// Sqaure_root()
