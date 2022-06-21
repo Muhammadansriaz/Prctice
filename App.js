@@ -12,3 +12,11 @@
 //   console.log(square_root);
 // }
 // Sqaure_root()
+// function main(a, b = main()) {
+//     return a + b
+// }
+// main()
+
+var arr = [2,3,4,5,6]
+arr.slice(2,0,);
+alert(arr)
